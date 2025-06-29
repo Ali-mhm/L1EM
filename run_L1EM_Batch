@@ -16,7 +16,7 @@
  #   You should have received a copy of the GNU General Public License
  #   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# Usage: bash run_L1EM.sh /fullpathto/alignments.bam /fullpathto/L1EM /fullpathto/hg38.fa
+# Usage: bash run_L1EM_Batch /fullpathto/folder contain bam files/ /fullpathto/L1EM /fullpathto/hg38.fa
 
 # Parameters
 threads=16 #How many threads to use for samtools, bwa and L1EM
