@@ -6,7 +6,7 @@ You will need
 
 Download from github
 ```
-git clone (https://github.com/Ali-mhm/L1EM)
+git clone https://github.com/Ali-mhm/L1EM
 ```
 Create conda environment
 ```
